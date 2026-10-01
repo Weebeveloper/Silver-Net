@@ -1,0 +1,182 @@
+{
+  "jobs": [
+    {
+      "id": "snxg6tkw",
+      "name": "Deathgivers Bridgewatch",
+      "startingSilver": 3507579,
+      "production": {
+        "itemName": "deathgivers",
+        "quantity": 12,
+        "sellPrice": 53000,
+        "item": "DeathGivers",
+        "qty": 12
+      },
+      "returnRateEnabled": true,
+      "returnRate": 24,
+      "expenses": [
+        {
+          "id": "mu6zz0tsnx2jr6",
+          "item": "Bars 4.0",
+          "qty": 192,
+          "price": 296,
+          "returnable": true
+        },
+        {
+          "id": "mu6zz0tst9nm9j",
+          "item": "Leather 4.0",
+          "qty": 192,
+          "price": 460,
+          "returnable": true
+        },
+        {
+          "id": "mu6zz0tsmog9t5",
+          "item": "Ghastly Blades 4.0",
+          "qty": 12,
+          "price": 31000,
+          "returnable": false
+        },
+        {
+          "id": "mu6zz0ts9ynj05",
+          "item": "Salad",
+          "qty": 2,
+          "price": 5400,
+          "returnable": false
+        }
+      ]
+    },
+    {
+      "id": "mu1b53x4tz2phj",
+      "name": "Deathgivers Thetford",
+      "startingSilver": 3350000,
+      "production": {
+        "item": "Deathgivers 4.0",
+        "qty": 10,
+        "sellPrice": 55500
+      },
+      "returnRateEnabled": true,
+      "returnRate": 15,
+      "expenses": [
+        {
+          "id": "mu6zz0tskf6840",
+          "item": "Bar 4.0",
+          "qty": 160,
+          "price": 280,
+          "returnable": true
+        },
+        {
+          "id": "mu6zz0ts1g2rke",
+          "item": "Leather 4.0",
+          "qty": 160,
+          "price": 473,
+          "returnable": true
+        },
+        {
+          "id": "mu6zz0ts13kww9",
+          "item": "Ghastly Blades 4.0",
+          "qty": 10,
+          "price": 28500,
+          "returnable": false
+        },
+        {
+          "id": "mu6zz0tsttf23u",
+          "item": "salad",
+          "qty": 0,
+          "price": 5000,
+          "returnable": false
+        }
+      ]
+    },
+    {
+      "id": "mu6zz3zckmzvr1",
+      "name": "Gigantify T5 Potion Bridgewatch",
+      "startingSilver": 0,
+      "production": {
+        "item": "Gigantify Potion T5",
+        "qty": 200,
+        "sellPrice": 3530
+      },
+      "returnRateEnabled": false,
+      "returnRate": 24,
+      "expenses": [
+        {
+          "id": "mu6zzkih67mhl9",
+          "item": "Goose Egg T5",
+          "qty": 180,
+          "price": 312,
+          "returnable": false
+        },
+        {
+          "id": "mu7001og21mby6",
+          "item": "Crenellated Burdock T4",
+          "qty": 360,
+          "price": 502,
+          "returnable": false
+        },
+        {
+          "id": "mu702b4wfxam6l",
+          "item": "Dragon Teasel T5",
+          "qty": 720,
+          "price": 476,
+          "returnable": false
+        }
+      ]
+    },
+    {
+      "id": "mu72z5i7gqhcg1",
+      "name": "Poison Potion Bridgewatch",
+      "startingSilver": 0,
+      "production": {
+        "item": "Poison Potion T6 (x80)",
+        "qty": 540,
+        "sellPrice": 7000
+      },
+      "returnRateEnabled": false,
+      "returnRate": 0,
+      "expenses": [
+        {
+          "id": "mu72zr1beszd22",
+          "item": "Sheep's Milk T6",
+          "qty": 480,
+          "price": 404,
+          "returnable": false
+        },
+        {
+          "id": "mu72zrev1nj61y",
+          "item": "Elusive Foxglove T6",
+          "qty": 1920,
+          "price": 472,
+          "returnable": false
+        },
+        {
+          "id": "mu72zrt2h34cqm",
+          "item": "Dragon Teasel T5",
+          "qty": 960,
+          "price": 476,
+          "returnable": false
+        },
+        {
+          "id": "mu72ztkmbfgoih",
+          "item": "Brightleaf Comfrey T3",
+          "qty": 960,
+          "price": 414,
+          "returnable": false
+        },
+        {
+          "id": "mu7517xpud1qe5",
+          "item": "Travel Cost and taxes",
+          "qty": 1,
+          "price": 600000,
+          "returnable": false
+        }
+      ]
+    }
+  ],
+  "activeJobId": "mu72z5i7gqhcg1",
+  "scratch": [
+    {
+      "id": "mu1c7eaup293ib",
+      "label": "f",
+      "expr": "960*2"
+    }
+  ]
+}
